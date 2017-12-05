@@ -1,6 +1,6 @@
 # Opencv python fundamentals
 <p>A project created for Giscle Internship. All credits to Giscle for the code.</p>
--------------------------------
+
 <p align='center'>### Canny edge detector</p>
 
 Base photo:
